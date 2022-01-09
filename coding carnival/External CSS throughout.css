@@ -1,0 +1,8 @@
+body{background-image:url('another\ background.jpg');margin:25px;background-repeat: no-repeat;background-size: cover;
+    border:dashed 7px rgb(255, 255, 255);
+    padding:37px;color:rgb(212, 102, 90);font-stretch:100px;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+footer{text-align: center;color:rgb(0, 0, 0);border:none;padding:30px;font-size:20px;}
+p{background-color: rgba(135, 233, 250, 0.514);display:block;
+    margin-left:auto;margin-right:auto;text-align:center;font-size:17px;}
+
+    p:hover{background-color: rgba(168, 225, 247, 0.781);}
